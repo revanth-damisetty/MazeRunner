@@ -1,16 +1,16 @@
 # MazeRunner
-- This Repository is about our term project in 3rd year of undergraduation.
-<br><br>
-  Objective:<br>
-    - To Create unique path finder within a maze.<br>
-    - To make a rover move in the path defined above.<br><br>
+- This Repository is about our Internet of Things - term project in 3rd year of undergraduation.
 
-  Components:<br>
-    - 2 Raspberry pi version 4 <br>
-    - 1 SenseHat Module<br>
-    - 2 Bluetooth Modules<br>
-    - 1 GPIO Module<br>
-    - 1 L293D motor Module<br><br>
+ # Objective:
+    - To Create unique path finder within a maze.
+    - To make a rover move in the path defined above.
+
+ # Components:<br>
+    - 2 Raspberry pi version 4
+    - 1 SenseHat Module
+    - 2 Bluetooth Modules
+    - 1 GPIO Module
+    - 1 L293D motor Module
     
   
     
